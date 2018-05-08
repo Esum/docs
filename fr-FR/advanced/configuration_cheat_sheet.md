@@ -27,6 +27,7 @@ Nom|Description
 `PROTOCOL`|`http` ou `https`.
 `DOMAIN`|Le nom de domaine de votre serveur.
 `ROOT_URL`|URL publiques complète du serveur Gogs.
+`UNIX_SOCKET_PERMISSION`|Permission du socket unix.
 `HTTP_ADDR`|Adresse d'écoute HTTP.
 `HTTP_PORT`|Port d'écoute HTTP.
 `DISABLE_SSH`|Désactiver la fonction SSH quand elle n'est pas disponible.
